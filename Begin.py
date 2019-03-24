@@ -1,4 +1,4 @@
- import Robot,numpy
+import Robot,numpy
 
 
 class Begin:
